@@ -23,3 +23,36 @@
     /* display: inline; */
     
 }
+
+.cat1 , .cat2, .cat3{
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+.cat1{
+    background-color: #2744e9;
+    color: #fff;
+}
+.cat2{
+    background-color: orange;
+}
+.cat3{
+    background-color: tomato;
+}
+.categories img{
+    width: 140px;
+}
+
+.shoes .buy-no-btn{
+    width: 150px;
+}
+
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px #665959;
+    border-radius: 20px;
+}
+.ftr{
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 20px;
+}
